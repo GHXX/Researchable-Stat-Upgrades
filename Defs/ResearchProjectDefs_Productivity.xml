@@ -95,7 +95,10 @@
         </researchMods>
         <prerequisites>
             <li>ProductivityV</li>
-        </prerequisites>
+        </prerequisites>                   
+		<tags>
+			<li>ta-ignore</li>
+        </tags>
 		<modExtensions>
 			<li Class="ResearchableStatUpgrades.ModExtension_CompoundBonus">
 				<factor>1.2</factor>
